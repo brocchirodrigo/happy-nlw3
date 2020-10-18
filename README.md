@@ -11,9 +11,9 @@ Projeto React usando template Typescript.
  
 > Developer: :atom_symbol:
 
-- [ ] Front end [Em andamento]
-- [ ] Back end
-- [ ] Mobile
+- [x] Front end [Em andamento]
+- [x] Back end
+- [x] Mobile
 
 ### Pré requisitos do ambiente de desenvolvimento:
 
@@ -26,8 +26,16 @@ Projeto React usando template Typescript.
 ## Histórico de lançamentos
 
 * 1.0.0 [12/10/2020]
-    * Criação de S da landing page.
-    * Trabalho em andamento.
+    * Criação da landing page.
+* Front end concluído [21/10/2020]
+    * Página de cadastro
+    * Página de criação
+* Backend concluído [22/10/2020]
+    * Rotas de consulta
+    * Rotas de cadastro
+* Mobile em React Native criado
+    * Telas de consulta
+    * Telas de cadastro
 
 ## Meta
 
