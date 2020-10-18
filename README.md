@@ -27,13 +27,13 @@ Projeto React usando template Typescript.
 
 * 1.0.0 [12/10/2020]
     * Criação da landing page.
-* Front end concluído [21/10/2020]
+* Front end concluído [14/10/2020]
     * Página de cadastro
     * Página de criação
-* Backend concluído [22/10/2020]
+* Backend concluído [15/10/2020]
     * Rotas de consulta
     * Rotas de cadastro
-* Mobile em React Native criado
+* Mobile em React Native criado [17/10/2020]
     * Telas de consulta
     * Telas de cadastro
 
